@@ -2,7 +2,7 @@ git clone the repository
 
 change the values for the database connections 
 
-import sql database from the sql folder
+import sql database from the coderootz.sql file
 
 enjoy
 
